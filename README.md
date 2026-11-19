@@ -1,0 +1,1 @@
+# coc_class_test
