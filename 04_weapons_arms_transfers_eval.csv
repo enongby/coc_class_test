@@ -1,0 +1,251 @@
+﻿recipient,weapon_designation,weapon_type,order_year,number_ordered,number_delivered,delivery_first_year,delivery_last_year,weapon_condition,tiv_per_unit,order_year_uncertain,quantity_ordered_uncertain,quantity_delivered_uncertain
+Taiwan,APG-67,combat aircraft radar,1982,131,2,2000,2000,New,2.5,1,0,1
+Taiwan,Perry,frigate,1989,8,1,2004,2004,New,300.0,0,0,0
+Australia,SPS-49,air-search radar,1993,8,6,2001,2006,New,5.0,0,0,0
+Brazil,LM-2500,gas turbine,1994,1,1,2008,2008,New,7.0,1,0,0
+Japan,LCAC,landing craft,1994,6,4,2001,2002,New,13.9,0,0,1
+Turkiye,Mk-41 VLS,naval surface-to-air missile system,1994,2,1,2000,2000,New,20.0,1,0,0
+United Kingdom,C-130J Hercules,transport aircraft,1994,10,7,2000,2000,New,40.0,0,0,1
+Spain,F/A-18A Hornet,fighter/ground-attack aircraft,1995,24,3,2000,2000,Second hand but modernized,19.8,0,0,1
+United Kingdom,MH-47E Chinook,transport helicopter,1995,8,8,2000,2001,New,25.0,0,0,1
+Japan,aircraft engine,aircraft engine,1996,32,32,2007,2022,New,1.5,1,1,0
+United Kingdom,AH-64D Apache,combat helicopter,1996,67,67,2000,2004,New,13.3,0,0,1
+Italy,C-130J Hercules,transport aircraft,1997,16,16,2000,2003,New,40.0,0,0,1
+Saudi Arabia,M-113A3,armoured personnel carrier,1997,523,523,2003,2006,New,0.3,0,0,1
+Colombia,S-70 Black Hawk,transport helicopter,1998,6,1,2000,2000,New,7.25,0,0,1
+Greece,M-113,armoured personnel carrier,1998,38,32,2000,2000,Second hand,0.1,1,1,1
+Greece,MIM-104 PAC-2,surface-to-air missile,1998,200,125,2000,2000,New,1.0,1,1,1
+Japan,Mk-15 Phalanx,naval gun,1998,4,4,2000,2000,New,7.0,1,0,0
+United Arab Emirates,Paveway,guided bomb,1998,1673,1423,2000,2004,New,0.02,1,1,1
+Egypt,M-1A1 Abrams,tank,1999,100,100,2002,2003,New,4.0,0,0,1
+Singapore,CH-47D Chinook,transport helicopter,1999,2,2,2000,2000,New,18.0,0,0,0
+South Korea,LM-2500,gas turbine,1999,6,6,2003,2005,New,7.0,1,0,0
+South Korea,SPS-49,air-search radar,1999,3,3,2003,2005,New,5.0,1,0,0
+Spain,AGM-65 Maverick,air-to-surface missile,1999,44,44,2001,2001,New,0.15,0,0,1
+Spain,Paveway,guided bomb,1999,100,100,2000,2000,New,0.02,1,1,1
+Taiwan,OH-58D,combat helicopter,1999,13,12,2000,2001,New,3.0,0,0,1
+Argentina,BGM-71 TOW,anti-tank missile,2000,42,42,2002,2003,New,0.01,0,1,0
+Belgium,AAQ-14 LANTIRN,aircraft electro-optical system,2000,8,8,2002,2002,New,1.0,1,0,1
+Dominican Republic,Balsam,cargo ship,2000,1,1,2001,2001,Second hand,4.0,0,0,0
+Israel,JDAM,guided bomb,2000,700,700,2000,2001,New,0.02,0,1,1
+Japan,BGM-71 TOW,anti-tank missile,2000,275,275,2001,2001,New,0.01,0,1,1
+Mexico,R-44,light helicopter,2000,1,1,2000,2000,New,0.25,0,0,0
+Sri Lanka,TPQ-36 Firefinder,artillery locating radar,2000,2,2,2003,2004,New,3.0,1,0,1
+Turkiye,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,2000,72,72,2001,2002,New,0.05,0,0,1
+Argentina,TFE-731,turbofan,2001,6,6,2009,2009,New,0.6,1,0,1
+Australia,Popeye,air-to-surface missile,2001,70,70,2005,2008,New,0.9,1,1,1
+Chile,Mk-15 Phalanx,naval gun,2001,1,1,2001,2001,Second hand,2.8,0,0,0
+Colombia,Cessna-337/O-2,light aircraft,2001,2,2,2001,2001,Second hand,0.14,1,1,1
+Ecuador,MX-7,light aircraft,2001,3,3,2002,2002,New,0.1,1,0,0
+Egypt,SPS-48E LBR,air-search radar,2001,6,6,2005,2006,New,15.0,0,0,1
+Estonia,R-44,light helicopter,2001,4,4,2002,2002,New,0.25,0,0,0
+Latvia,TPS-77,air-search radar,2001,1,1,2003,2003,New,11.0,0,0,0
+Malaysia,RDR-1500,maritime patrol aircraft radar,2001,6,6,2003,2004,New,2.25,1,0,1
+Poland,SH-2G Super Seasprite,anti-submarine helicopter,2001,4,4,2002,2003,Second hand,6.0,0,0,0
+Singapore,APG-78 Longbow,combat helicopter radar,2001,12,12,2005,2005,New,3.0,0,0,1
+Australia,ESSM Block-1,surface-to-air missile,2002,400,400,2003,2017,New,0.4,0,1,1
+Colombia,OT-47B Tracker,airborne early-warning/ground surveillance aircraft,2002,1,1,2002,2002,New,8.5,1,1,0
+Czechia,AIM-9M Sidewinder,short-range air-to-air missile,2002,100,100,2002,2005,New,0.12,0,0,0
+Denmark,JDAM,guided bomb,2002,274,274,2004,2005,New,0.02,0,0,1
+Japan,SM-2MR,surface-to-air missile,2002,16,16,2004,2004,New,0.3,1,0,1
+Lithuania,Stinger,portable surface-to-air missile,2002,54,54,2007,2007,New,0.08,0,0,0
+Oman,AIM-120C AMRAAM,long-range air-to-air missile,2002,50,50,2006,2006,New,0.6,0,0,1
+South Korea,AGM-65 Maverick,air-to-surface missile,2002,3,3,2003,2003,New,0.15,1,1,1
+South Korea,SPY-1D,air-search radar,2002,3,3,2008,2012,New,22.0,1,0,0
+United Kingdom,Bell-412,helicopter,2002,6,6,2002,2003,New,5.0,0,0,1
+Denmark,JDAM,guided bomb,2003,245,245,2005,2006,New,0.02,0,0,1
+Egypt,M-1A1 Abrams,tank,2003,125,125,2005,2008,New,4.0,0,0,1
+Greece,AH-64D Apache Longbow,combat helicopter,2003,12,12,2007,2007,New,15.5,0,0,1
+Japan,Mk-45-4 127mm,naval gun,2003,2,2,2007,2008,New,7.5,0,0,0
+Japan,SM-2MR,surface-to-air missile,2003,18,18,2005,2005,New,0.3,1,0,1
+Jordan,F-16ADF,fighter/ground-attack aircraft,2003,17,17,2003,2007,Second hand,8.8,0,0,1
+Philippines,Bell-205A-1,helicopter,2003,16,16,2004,2005,Second hand,1.05,0,1,1
+Singapore,AGM-65 Maverick,air-to-surface missile,2003,57,57,2005,2005,New,0.15,1,1,1
+South Korea,F-404,turbofan,2003,27,27,2006,2008,New,2.2,1,0,1
+Turkiye,S-70 Black Hawk,transport helicopter,2003,2,2,2004,2004,New,7.25,0,0,1
+Argentina,UH-1H Huey-2,helicopter,2004,9,9,2005,2008,New,3.1,0,0,1
+Egypt,M-88A2 HERCULES,armoured recovery vehicle,2004,21,21,2007,2007,New,2.0,0,0,1
+Romania,C-130H Hercules,transport aircraft,2004,1,1,2007,2007,Second hand but modernized,18.48,0,0,0
+Bahamas,King Air,light transport aircraft,2005,1,1,2005,2005,New,2.85,1,0,0
+Denmark,TPS-77,air-search radar,2005,2,2,2007,2007,New,11.0,0,0,0
+Morocco,M-113,armoured personnel carrier,2005,199,199,2006,2006,Second hand,0.1,1,0,0
+Pakistan,Harpoon Block-2,anti-ship/land-attack missile,2005,50,50,2006,2007,New,1.0,0,1,1
+Pakistan,P-3CUP Orion,anti-submarine aircraft,2005,7,7,2007,2012,New,75.0,0,0,0
+Taiwan,AIM-9M Sidewinder,short-range air-to-air missile,2005,10,10,2006,2006,New,0.12,0,0,1
+Burkina Faso,King Air,light transport aircraft,2006,1,1,2006,2006,New,2.85,0,0,0
+Colombia,Bell-206,light helicopter,2006,12,12,2007,2007,New,0.7,1,0,0
+Colombia,Paveway,guided bomb,2006,100,100,2007,2008,New,0.02,0,1,1
+Italy,F-35A Lightning-2,fighter/ground-attack aircraft,2006,75,36,2015,2025,New,55.0,1,0,1
+Pakistan,ship engine,ship engine,2006,2,2,2007,2008,New,2.5,0,0,0
+Romania,HMMWV-UA,armoured personnel carrier,2006,22,22,2006,2007,New,0.13,1,0,0
+Turkiye,AGM-84H SLAM-ER,air-to-surface missile,2006,50,50,2011,2011,New,1.25,0,0,0
+United Kingdom,Mk-15 Phalanx,naval gun,2006,16,16,2008,2010,New,7.0,0,0,1
+Australia,ASQ-228 ATFLIR,aircraft electro-optical system,2007,24,24,2010,2011,New,1.1,1,1,1
+France,GMLRS,guided rocket,2007,1020,1020,2010,2014,New,0.08,1,1,1
+Germany,LM-2500,gas turbine,2007,4,4,2019,2022,New,7.0,1,0,0
+Greece,DB-110,aircraft reconnaissance system,2007,2,2,2009,2009,New,4.0,0,0,1
+India,F-404,turbofan,2007,24,24,2016,2020,New,2.2,0,0,1
+Iraq,Cessna-172,light/trainer aircraft,2007,12,12,2007,2009,New,0.1,0,0,0
+Netherlands,CH-47F Chinook,transport helicopter,2007,6,6,2012,2013,New,20.0,0,0,1
+Spain,SM-2MR,surface-to-air missile,2007,36,36,2009,2009,New,0.3,1,0,1
+Thailand,TPS-77,air-search radar,2007,1,1,2012,2012,New,11.0,0,0,0
+Australia,F414,turbofan,2008,8,8,2010,2011,New,2.5,0,1,1
+Australia,SPY-1F,air-search radar,2008,3,3,2017,2020,New,20.0,0,0,0
+Canada,Cougar,armoured personnel carrier,2008,48,48,2009,2009,New,0.35,0,0,0
+Colombia,T-37B,(armed) trainer aircraft,2008,14,14,2008,2010,Second hand,0.72,1,1,0
+Japan,SM-2MR,surface-to-air missile,2008,24,24,2010,2010,New,0.3,0,1,1
+Malaysia,vehicle engine,vehicle engine,2008,28,28,2010,2010,New,0.03,0,1,1
+Mexico,APS-143(V),maritime patrol aircraft radar,2008,2,2,2010,2010,New,2.5,0,0,0
+Taiwan,P-3CUP Orion,anti-submarine aircraft,2008,12,12,2012,2015,New,75.0,1,0,1
+Taiwan,SM-2MR,surface-to-air missile,2008,144,144,2010,2012,New,0.3,0,1,1
+United Arab Emirates,Paveway,guided bomb,2008,938,938,2010,2013,New,0.02,1,0,1
+Algeria,King Air,light transport aircraft,2009,8,8,2010,2011,New,2.85,1,0,1
+Italy,AGM-88E AARGM,anti-radar missile,2009,160,160,2017,2022,New,0.6,0,1,1
+Oman,C-130J Hercules,transport aircraft,2009,1,1,2012,2012,New,40.0,0,0,0
+Peru,Cessna-208 Caravan,light transport aircraft,2009,1,1,2009,2009,Second hand,0.4,0,0,0
+Turkiye,Mk-54 LWT,anti-submarine torpedo,2009,100,100,2012,2014,New,0.5,0,0,1
+United Kingdom,C-17A Globemaster-3,heavy transport aircraft,2009,1,1,2010,2010,New,140.0,1,0,0
+Colombia,King Air,light transport aircraft,2010,2,2,2010,2010,New,2.85,0,1,1
+Colombia,King Air,light transport aircraft,2010,1,1,2011,2011,New,2.85,1,0,0
+Iraq,M-113,armoured personnel carrier,2010,834,834,2011,2013,Second hand but modernized,0.17,0,1,1
+Mexico,APS-143(V),maritime patrol aircraft radar,2010,6,6,2011,2015,New,2.5,0,0,0
+Netherlands,GBU-39 SDB,guided glide bomb,2010,603,603,2012,2013,New,0.02,0,1,1
+Oman,C-130J Hercules,transport aircraft,2010,2,2,2013,2014,New,40.0,0,0,0
+Pakistan,Perry,frigate,2010,1,1,2011,2011,Second hand but modernized,198.0,0,0,0
+Saudi Arabia,AAQ-33 Sniper ATP,aircraft electro-optical system,2010,21,21,2011,2012,New,1.0,0,1,1
+Australia,C-17A Globemaster-3,heavy transport aircraft,2011,1,1,2011,2011,New,140.0,0,0,0
+El Salvador,MD-500E,light helicopter,2011,3,3,2012,2012,New,0.7,0,0,0
+Mexico,T-6 Texan-2,(armed) trainer aircraft,2011,6,6,2012,2012,New,2.0,1,0,0
+Oman,F-16C Block-50,fighter/ground-attack aircraft,2011,12,12,2014,2014,New,31.0,0,0,0
+Saudi Arabia,AGM-88B HARM,anti-radar missile,2011,600,600,2017,2020,New,0.25,1,1,1
+South Korea,Mk-15 Phalanx,naval gun,2011,6,6,2013,2016,New,7.0,0,0,0
+South Korea,SM-2MR,surface-to-air missile,2011,19,19,2013,2013,New,0.3,0,0,1
+Turkiye,AH-1W SuperCobra,combat helicopter,2011,3,3,2012,2012,Second hand,4.6,0,0,0
+United Arab Emirates,THAAD,anti-ballistic missile system,2011,2,2,2015,2016,New,700.0,0,0,1
+Bahrain,M-198 155mm,towed gun,2012,12,12,2017,2017,Second hand,0.34,0,0,0
+France,SR-22,light aircraft,2012,13,13,2012,2017,New,0.2,0,0,1
+Israel,JDAM,guided bomb,2012,1500,1500,2013,2013,New,0.02,0,0,1
+Japan,F135-100,turbofan,2012,5,5,2017,2023,New,4.0,1,1,1
+Malaysia,RDR-1700,maritime patrol aircraft radar,2012,4,4,2014,2014,New,2.5,1,0,1
+Morocco,CH-47D Chinook,transport helicopter,2012,3,3,2015,2015,Second hand but modernized,11.88,0,1,0
+Oman,APG-68,combat aircraft radar,2012,3,3,2014,2014,New,2.0,0,0,1
+Saudi Arabia,AH-64E Apache,combat helicopter,2012,12,12,2015,2015,New,15.0,1,0,1
+South Korea,Mk-45-4 127mm,naval gun,2012,1,1,2018,2018,New,7.5,1,0,0
+United Kingdom,PW-2000/F-117,turbofan,2012,16,16,2012,2013,New,5.0,0,1,1
+Argentina,TFE-731,turbofan,2013,18,9,2019,2023,New,0.6,1,1,1
+Bangladesh,Hamilton,patrol ship,2013,1,1,2013,2013,Second hand,54.0,0,0,0
+Croatia,M-ATV,armoured personnel carrier,2013,120,120,2014,2014,Second hand,0.1,0,0,0
+Jordan,AAQ-33 Sniper ATP,aircraft electro-optical system,2013,5,5,2014,2014,New,1.0,0,0,1
+Philippines,HMMWV-UA,armoured personnel carrier,2013,25,25,2013,2013,Second hand,0.05,0,1,1
+Afghanistan,MD-500E,light helicopter,2014,12,12,2015,2015,New,0.7,0,0,0
+Djibouti,PKSV,armoured personnel carrier,2014,15,15,2014,2014,New,0.3,1,1,1
+Indonesia,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,2014,140,140,2017,2018,New,0.05,0,1,1
+Israel,JDAM,guided bomb,2014,3000,3000,2015,2016,New,0.02,0,0,1
+Italy,RQ-1 Predator,reconnaissance drone,2014,2,2,2015,2015,New,2.0,1,1,1
+Jordan,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,2014,50,50,2014,2014,New,0.05,1,1,1
+Jordan,vehicle engine,vehicle engine,2014,25,25,2016,2018,New,0.08,0,1,1
+Lebanon,HMMWV-UA,armoured personnel carrier,2014,74,74,2015,2016,Second hand,0.05,1,1,1
+Lebanon,UH-1H Huey-2,helicopter,2014,6,6,2016,2017,New,3.1,0,1,1
+Mexico,King Air,light transport aircraft,2014,2,2,2015,2015,New,2.85,0,0,0
+Morocco,JDAM,guided bomb,2014,90,90,2015,2017,New,0.02,0,1,1
+New Zealand,FGM-148 Javelin,anti-tank missile,2014,10,10,2014,2014,New,0.03,0,1,1
+Nigeria,Alpha Jet,trainer/combat aircraft,2014,4,4,2015,2018,Second hand,3.6,0,0,0
+Nigeria,Caiman,armoured personnel carrier,2014,16,16,2016,2016,Second hand,0.1,0,0,0
+Saudi Arabia,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,2014,2176,2176,2015,2016,New,0.05,0,1,1
+Slovakia,aircraft engine,aircraft engine,2014,4,4,2017,2018,New,1.5,0,0,0
+South Korea,Mk-15 Phalanx,naval gun,2014,9,9,2018,2023,New,7.0,0,0,0
+Thailand,AAQ-33 Sniper ATP,aircraft electro-optical system,2014,5,5,2015,2016,New,1.0,0,1,1
+Yemen,King Air-350 ISR,ground surveillance aircraft,2014,1,1,2015,2015,New,11.0,0,1,1
+Belgium,JDAM,guided bomb,2015,60,60,2016,2016,New,0.02,0,0,1
+Colombia,Bell-206,light helicopter,2015,60,60,2016,2019,Second hand,0.28,0,0,1
+Colombia,Stinger,portable surface-to-air missile,2015,60,60,2015,2015,New,0.08,1,0,0
+India,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,2015,542,542,2019,2020,New,0.05,0,1,1
+Israel,vehicle engine,vehicle engine,2015,100,100,2016,2017,New,0.11,0,0,1
+Japan,Mk-45-4 127mm,naval gun,2015,2,2,2020,2021,New,7.5,1,0,0
+Lebanon,Cessna-208 Caravan,light transport aircraft,2015,1,1,2016,2016,New,1.0,0,0,0
+Morocco,M-1A1 Abrams,tank,2015,222,222,2016,2018,New,4.0,1,1,1
+Qatar,C-17A Globemaster-3,heavy transport aircraft,2015,4,4,2015,2016,New,140.0,0,0,1
+South Korea,Patriot Configuration-3,surface-to-air missile system,2015,8,8,2017,2020,New,55.0,1,0,1
+South Korea,Stinger,portable surface-to-air missile,2015,63,63,2016,2017,New,0.08,0,0,1
+Taiwan,AAQ-33 Sniper ATP,aircraft electro-optical system,2015,2,2,2019,2019,New,1.0,0,0,1
+Thailand,ESSM Block-1,surface-to-air missile,2015,14,14,2017,2018,New,0.4,1,0,1
+Tunisia,HMMWV-UA,armoured personnel carrier,2015,80,80,2015,2016,New,0.13,1,0,0
+Australia,CH-47F Chinook,transport helicopter,2016,3,3,2016,2016,New,20.0,0,0,0
+Australia,WGU-59 APKWS,air-to-surface missile,2016,1000,1000,2018,2022,New,0.01,0,1,1
+India,APG-78 Longbow,combat helicopter radar,2016,12,12,2019,2020,New,3.0,0,0,1
+Israel,GMLRS,guided rocket,2016,1000,1000,2017,2018,New,0.08,0,1,1
+Jordan,BGM-71 TOW,anti-tank missile,2016,300,300,2016,2018,New,0.01,0,1,1
+Kenya,UH-1H Huey-2,helicopter,2016,8,8,2016,2017,New,3.1,0,0,0
+Lebanon,WGU-59 APKWS,air-to-surface missile,2016,2000,2000,2019,2022,New,0.01,0,1,1
+Morocco,King Air,light transport aircraft,2016,2,2,2018,2018,New,2.85,0,0,0
+Oman,JDAM,guided bomb,2016,108,108,2017,2017,New,0.02,0,0,1
+Pakistan,MaxxPro,armoured personnel carrier,2016,30,30,2016,2016,Second hand,0.13,1,1,1
+Romania,TPS-77,air-search radar,2016,2,2,2017,2018,New,11.0,0,0,1
+Spain,MQ-9 Reaper,armed drone,2016,4,4,2019,2020,New,7.5,0,0,0
+United Arab Emirates,ESSM Block-1,surface-to-air missile,2016,96,96,2018,2019,New,0.4,0,1,1
+Algeria,MaxxPro,armoured personnel carrier,2017,30,30,2018,2020,New,0.32,1,1,1
+Canada,vehicle engine,vehicle engine,2017,141,141,2018,2019,New,0.08,0,1,1
+Finland,GMLRS,guided rocket,2017,48,48,2020,2020,New,0.08,1,1,1
+Indonesia,MPQ-64 Sentinel,air-search radar,2017,2,2,2020,2021,New,5.0,0,1,1
+Israel,vehicle engine,vehicle engine,2017,50,50,2018,2019,New,0.11,0,1,1
+Lebanon,BGM-71F TOW-2B,anti-tank missile,2017,1500,1500,2018,2020,New,0.02,0,1,1
+Qatar,AGM-154 JSOW,guided glide bomb,2017,200,200,2021,2022,New,0.1,0,1,1
+Saudi Arabia,S-70 Black Hawk,transport helicopter,2017,57,57,2019,2023,New,7.25,0,1,1
+Taiwan,F-125,turbofan,2017,132,54,2021,2023,New,1.25,1,1,1
+Chile,JDAM,guided bomb,2018,44,44,2019,2019,New,0.02,0,0,1
+Guatemala,Cessna-208 Caravan,light transport aircraft,2018,1,1,2018,2018,New,1.0,0,0,0
+Jamaica,Bell-412,helicopter,2018,1,1,2018,2018,New,5.0,1,0,0
+Mexico,Cessna-208 Caravan,light transport aircraft,2018,1,1,2018,2018,New,1.0,1,0,0
+Morocco,AIM-9X Sidewinder,long-range air-to-air missile,2018,36,36,2020,2021,New,0.18,0,0,1
+Poland,Paveway,guided bomb,2018,440,440,2020,2023,New,0.02,1,1,1
+Russia,vehicle engine,vehicle engine,2018,60,60,2020,2022,New,0.05,1,1,1
+Slovakia,AIM-120C AMRAAM,long-range air-to-air missile,2018,30,30,2024,2025,New,0.6,0,0,1
+South Korea,P-8A Poseidon,anti-submarine aircraft,2018,6,6,2024,2024,New,125.0,0,0,0
+United Arab Emirates,MIM-104 PAC-3 MSE,anti-ballistic missile missile,2018,60,60,2020,2020,New,1.5,0,1,1
+Bahrain,MIM-104 PAC-2,surface-to-air missile,2019,36,36,2023,2024,New,1.0,0,0,1
+Bahrain,Patriot Configuration-3,surface-to-air missile system,2019,2,2,2023,2024,New,55.0,0,1,1
+Bulgaria,AIM-120C AMRAAM,long-range air-to-air missile,2019,16,16,2025,2025,New,0.6,0,1,1
+Bulgaria,JDAM,guided bomb,2019,15,15,2025,2025,New,0.02,0,1,1
+Czechia,AH-1Z Viper,combat helicopter,2019,4,4,2023,2023,New,14.5,0,0,1
+Japan,SM-3 Block-2,anti-ballistic missile missile,2019,90,19,2022,2025,New,10.0,0,1,1
+Saudi Arabia,Paveway,guided bomb,2019,20000,20000,2019,2020,New,0.02,0,1,1
+Taiwan,M-1A2 Abrams,tank,2019,108,80,2022,2025,New,4.5,0,0,1
+Taiwan,M-88A2 HERCULES,armoured recovery vehicle,2019,14,8,2024,2025,New,2.0,0,1,1
+Thailand,Cessna-180 Skywagon,light aircraft,2019,3,3,2020,2020,New,0.18,1,0,0
+Thailand,S-70 Black Hawk,transport helicopter,2019,3,3,2020,2020,Second hand,2.6,1,0,0
+United Arab Emirates,RIM-116C RAM Block-2B,surface-to-air missile,2019,60,60,2023,2024,New,0.25,1,1,1
+Albania,S-70 Black Hawk,transport helicopter,2020,2,2,2024,2024,Second hand,2.6,0,0,0
+Brazil,M-113,armoured personnel carrier,2020,60,60,2020,2023,Second hand,0.1,1,0,0
+Chile,SR-22,light aircraft,2020,1,1,2021,2021,New,0.2,1,0,0
+Colombia,King Air,light transport aircraft,2020,1,1,2021,2021,New,2.85,1,0,0
+Colombia,UH-1H Huey-2,helicopter,2020,5,5,2021,2021,Second hand,1.24,1,0,0
+Lithuania,S-70 Black Hawk,transport helicopter,2020,4,2,2025,2025,New,7.25,0,0,0
+Morocco,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,2020,501,250,2025,2025,New,0.05,0,1,1
+South Korea,Mk-54 LWT,anti-submarine torpedo,2020,31,31,2022,2023,New,0.5,0,1,1
+United Arab Emirates,AAQ-33 Sniper ATP,aircraft electro-optical system,2020,25,25,2022,2023,New,1.0,0,1,1
+Zambia,Cessna-208 Caravan,light transport aircraft,2020,1,1,2020,2020,New,1.0,0,0,0
+Argentina,King Air,light transport aircraft,2021,2,2,2023,2025,Second hand,1.14,0,0,0
+Australia,M-88A2 HERCULES,armoured recovery vehicle,2021,6,4,2024,2025,New,2.0,1,0,1
+Colombia,Boeing-737NG,transport aircraft,2021,2,2,2022,2022,Second hand,13.2,0,0,0
+Czechia,AGM-114 Hellfire-2,anti-tank/air-to-surface missile,2021,14,14,2023,2023,New,0.05,1,1,1
+Ecuador,Bell-407,light helicopter,2021,1,1,2021,2021,New,1.3,1,0,0
+India,M-982 Excalibur,guided shell,2021,100,100,2023,2023,New,0.04,0,1,1
+Kosovo,M-1117 Guardian,armoured personnel carrier,2021,105,105,2021,2025,Second hand,0.16,1,1,0
+Malaysia,TPS-77,air-search radar,2021,1,1,2023,2023,New,11.0,0,0,0
+Taiwan,HIMARS,multiple rocket launcher,2021,11,11,2024,2024,New,2.2,0,0,1
+Australia,GMLRS,guided rocket,2022,2040,360,2025,2025,New,0.08,0,1,1
+Burkina Faso,vehicle engine,vehicle engine,2022,15,15,2022,2022,New,0.08,1,1,1
+Norway,TPY-4,air-search radar,2022,8,1,2025,2025,New,15.0,0,0,1
+Philippines,Cyclone,patrol boat,2022,2,2,2023,2023,Second hand,8.6,1,0,0
+Poland,M-1A1 Abrams,tank,2022,116,116,2023,2024,Second hand,1.6,0,0,0
+Ukraine,HMMWV-UA,armoured personnel carrier,2022,450,450,2022,2022,Second hand,0.05,0,1,1
+Ukraine,MMR,multi-role radar,2022,51,51,2023,2024,New,6.5,0,1,1
+Ukraine,Phoenix Ghost Atlas,one-way attack drone,2022,2000,2000,2023,2024,New,0.02,1,1,1
+Ukraine,Phoenix Ghost Dagger,one-way attack drone,2022,4000,4000,2022,2024,New,0.02,0,1,1
+Ukraine,vehicle engine,vehicle engine,2022,39,39,2022,2022,New,0.08,0,0,1
+Azerbaijan,aircraft engine,aircraft engine,2023,4,4,2025,2025,New,1.5,0,1,1
+Poland,M-ATV,armoured personnel carrier,2023,79,79,2024,2024,Second hand,0.1,0,0,0
+Sri Lanka,Reliance,patrol ship,2024,1,1,2025,2025,Second hand,6.0,0,0,0
+Tunisia,Island,patrol boat,2024,2,2,2025,2025,Second hand,3.68,1,0,0
+Ukraine,Patriot,surface-to-air missile system,2024,3,3,2025,2025,Second hand,18.8,1,1,1
+Ukraine,Altius-600,loitering munition,2025,100,100,2025,2025,New,0.06,0,1,1
